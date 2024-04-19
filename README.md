@@ -1,16 +1,5 @@
-# movie_app_flutter
+# Popcorn-pal-movie app
 
-A new Flutter project.
+Popcorn Pals: A Flutter Netflix-inspired Streaming App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Welcome to the Popcorn Pals repository! This project aims to develop a cutting-edge streaming application similar to Netflix, using the Flutter framework. Dive into the codebase to explore the journey of creating an innovative platform that fosters shared movie experiences among friends. From sleek UI design to robust backend integration, this repository documents the development process, challenges, and triumphs encountered while building Popcorn Pals. Join us in shaping the future of digital entertainment!
